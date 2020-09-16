@@ -1,3 +1,7 @@
+This app was deployed with Firebase. Live Demo Here:
+
+https://tinder-react-rebuild.web.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
